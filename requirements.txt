@@ -1,2 +1,5 @@
-streamlit
-plotly
+ streamlit>=1.50
+  numpy
+  pandas
+  plotly
+  matplotlib
